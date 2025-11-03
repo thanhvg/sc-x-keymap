@@ -1,0 +1,3 @@
+#+TITLE: Starcraft Remastered Keymap for Linux and X diplay manager
+
+Keymaps to play sc on the left half of the split keyboard.

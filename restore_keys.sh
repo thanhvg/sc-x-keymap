@@ -1,5 +1,4 @@
-#!/bin/bash;;
-# restore_keys.sh
+#!/bin/bash
 
 # Restore original key mapping from backup
 # xmodmap keymap_backup.xmodmap
